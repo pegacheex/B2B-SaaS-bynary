@@ -1,0 +1,8 @@
+# Ignore everything in parent directories
+../../../*
+
+# But include our project files
+!StockFlow_TakeHome_RishabhOswal.md
+!StockFlow_TakeHome_RishabhOswal.docx
+!README.md
+!.gitignore
